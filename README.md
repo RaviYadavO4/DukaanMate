@@ -142,15 +142,6 @@ com.portfolio.dukaanmate/
 
 ---
 
-## 💼 Freelance & Commercial Extensibility
-
-This codebase is structured for rapid client customization and white-labeling:
-* **Thermal Printing:** Ready to plug in 58mm / 80mm Bluetooth ESC/POS thermal printer SDKs.
-* **GST & Tax Compliance:** Easily extendable for CGST / SGST slab calculations on PDF invoices.
-* **Cloud Sync:** Repository abstraction allows adding encrypted Google Drive or Firebase backup without touching UI code.
-
----
-
 ## 👨‍💻 Author
 
 Built as a flagship Android POS & Inventory portfolio project. Feel free to ⭐ star the repository or connect for custom Android app development!
