@@ -144,4 +144,6 @@ com.portfolio.dukaanmate/
 
 ## 👨‍💻 Author
 
+**Ravi Yadav** ([@RaviYadavO4](https://github.com/RaviYadavO4))
+
 Built as a flagship Android POS & Inventory portfolio project. Feel free to ⭐ star the repository or connect for custom Android app development!
